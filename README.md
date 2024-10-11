@@ -15,7 +15,8 @@
 </br>
 </br>
 <div align=center>
-<a herf="#"><img src="https://github-readme-stats.vercel.app/api?username=hyeonjeong9911&theme=shadow_blue&show_icons=true"></a>
+  <a herf="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjeong9911&layout=compact"></a>
+  <a herf="#"><img src="https://github-readme-stats.vercel.app/api?username=hyeonjeong9911&theme=shadow_blue&show_icons=true"></a>
 </div>
 
 
