@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Kim%20Hyeonjeong&textBg=false&fontColor=black&fontAlign=50&descAlign=60&strokeWidth=0&rotate=0&animation=fadeIn&section=header&reversal=false">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=FFC0CB&text=Lee%20Seungjin&textBg=false&fontColor=black&fontAlign=50&descAlign=60&strokeWidth=0&rotate=0&animation=fadeIn&section=header&reversal=false">
 </div>
 
 </br>
